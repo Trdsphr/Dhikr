@@ -1,12 +1,10 @@
-
+[
   {
     "id": 1,
-    "translation": "Narrated `Ali: The Prophet (ﷺ) said, "Do not tell a lie against me for whoever tells a lie against me (intentionally) then he will surely enter the Hell-fire."",
-    "reference": "Sahih al-Bukhari 106 https://sunnah.com/bukhari:106",
+    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith1.png"
   },
   {
     "id": 2,
-    "translation": "Narrated `Aisha: The Prophet (ﷺ) said, "If a woman gives in charity from her house meals without wasting (i.e. being extravagant), she will get the reward for her giving, and her husband will also get the reward for his earning and the storekeeper will also get a similar reward. The acquisition of the reward of none of them will reduce the reward of the others."",
-    "reference": "Sahih al-Bukhari 2065 https://sunnah.com/bukhari:2065,
+    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith2.png"
   }
 ]

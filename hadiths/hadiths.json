@@ -1,16 +1,23 @@
 [
   {
-    "id": 1,
-    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
-    "translation": "Actions are judged by intentions.",
-    "narrator": "Umar ibn al-Khattab",
-    "source": "Sahih al-Bukhari 1"
+    "id": 6403,
+    "arabic": "مَنْ قَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، فِي يَوْمٍ مِائَةَ مَرَّةٍ",
+    "translation": "Whoever says: none has the right to be worshipped but Allah, Alone, without partner, His is the dominion and His the praise, and He is over all things Omnipotent — a hundred times in a day — will have the reward of freeing ten slaves, a hundred good deeds recorded, a hundred bad deeds erased, and protection from Satan till evening.",
+    "reference": "Sahih al-Bukhari 6403, Book of Da'awat",
+    "category": "Tawheed"
   },
   {
-    "id": 2,
-    "arabic": "الدِّينُ النَّصِيحَةُ",
-    "translation": "Religion is sincerity.",
-    "narrator": "Tamim al-Dari",
-    "source": "Sahih Muslim 55"
+    "id": 6407,
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "translation": "Two words that are light on the tongue, heavy on the scale, and beloved to the Most Merciful: Glory be to Allah and praise Him, Glory be to Allah the Magnificent.",
+    "reference": "Sahih al-Bukhari 6406",
+    "category": "Dhikr"
+  },
+  {
+    "id": 2992,
+    "arabic": "مَنْ صَلَّى عَلَيَّ صَلَاةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْرًا",
+    "translation": "Whoever sends one blessing upon me, Allah sends ten blessings upon him.",
+    "reference": "Sahih Muslim 384",
+    "category": "Salawat"
   }
 ]

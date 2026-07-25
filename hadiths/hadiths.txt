@@ -1,3 +1,5 @@
 https://dhikr-flax.vercel.app/hadiths/hadith1.png
 https://dhikr-flax.vercel.app/hadiths/hadith2.png
 https://dhikr-flax.vercel.app/hadiths/hadith3.png
+https://dhikr-flax.vercel.app/hadiths/hadith4.png
+https://dhikr-flax.vercel.app/hadiths/hadith5.png

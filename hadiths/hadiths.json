@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith1.png"
+    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith_fallback_2.png"
   },
   {
     "id": 2,
-    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith2.png"
+    "imageURL": "https://dhikr-flax.vercel.app/hadiths/hadith_fallback_2.png"
   }
 ]
